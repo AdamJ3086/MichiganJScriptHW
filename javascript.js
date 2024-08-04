@@ -12,4 +12,7 @@ function unDo() {
 
 <input type="Thank you" onfocus="myFunction()">
 
+  
+object.onblur = function(){myScript};
+
 console.log()
