@@ -10,7 +10,5 @@ function unDo() {
     "Hover over an image below to display here.";
 }
 
-<input type="Thank you" onfocus="myFunction()">
-
 
 console.log()
