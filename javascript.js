@@ -10,4 +10,6 @@ function unDo() {
     "Hover over an image below to display here.";
 }
 
+<body onload="myFunction()">
+
 console.log(1)
