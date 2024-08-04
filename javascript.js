@@ -10,6 +10,6 @@ function unDo() {
     "Hover over an image below to display here.";
 }
 
-<body onload="myFunction()">
+object.addEventListener("load", myScript);
 
 console.log(1)
